@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - Entry point 
+* main - Entry point
 *
 * Return: Always 0 (Success)
 */
@@ -11,6 +11,7 @@ long int 12;
 long long int 13;
 char c;
 float f;
+
 printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(c));
 printf("Size of an int: %lu byte(s)\n", (unsigned long)sizeof(i));
 printf("Size of a long int: %lu byte(s)\n", (unsigned long)sizeof(i2));
