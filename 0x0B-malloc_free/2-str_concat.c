@@ -4,7 +4,7 @@
 
 /**
  * _strlen - Swaps integers wih pointers.
- * 
+ *
  * @s: is a pointer to a char
  *
  * Return: Always 0.
@@ -62,3 +62,4 @@ return (ar);
 }
 
 }
+
