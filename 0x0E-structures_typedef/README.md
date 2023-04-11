@@ -1,1 +1,1 @@
-structured typef
+my readme on structures types
